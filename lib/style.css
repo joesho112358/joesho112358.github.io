@@ -48,11 +48,11 @@ nav h1 {
 }
 
 #section-benevolentish {
-  margin-top: 12px;
   background-color: black;
 }
 
 #section-benevolentish img {
+  margin-top: 12px;
   border-radius: 50%;
 }
 
