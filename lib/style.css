@@ -1,6 +1,8 @@
 body {
   text-align: center;
   margin: 0;
+  font-family: 'Abril Fatface';
+  font-size: 22px;
 }
 
 nav {
@@ -25,6 +27,24 @@ nav h1 {
   color: white;
   margin: 0;
   padding: 20px;
+}
+
+#subheader-github a:link, a:visited {
+  text-decoration: none;
+  color: white;
+}
+#subheader-github a:hover, a:active {
+  text-decoration: underline;
+  color: white;
+}
+
+#subheader-mail a:link, a:visited {
+  text-decoration: none;
+  color: white;
+}
+#subheader-mail a:hover, a:active {
+  text-decoration: underline;
+  color: white;
 }
 
 #section-benevolentish {
