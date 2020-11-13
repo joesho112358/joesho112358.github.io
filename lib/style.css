@@ -12,6 +12,15 @@ nav h1 {
   color: white;
 }
 
+#section-contact {
+  background-image: url("https://econclassroom.com/wp-content/uploads/2017/03/forest.jpg");    
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 #section-benevolentish {
   background-color: DarkGreen;
 }
