@@ -21,6 +21,12 @@ nav h1 {
   background-size: cover;
 }
 
+#section-contact h3 {
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
+
 #section-benevolentish {
   background-color: DarkGreen;
 }
