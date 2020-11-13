@@ -11,3 +11,15 @@ nav {
 nav h1 {
   color: white;
 }
+
+#section-benevolentish {
+  background-color: DarkGreen;
+}
+
+#section-benevolentish img {
+  border-radius: 50%;
+}
+
+#section-benevolentish p {
+  color: white;
+}
