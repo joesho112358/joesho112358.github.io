@@ -14,6 +14,10 @@ nav h1 {
   color: white;
 }
 
+.gh-logo {
+  width: 30px;
+}
+
 #section-contact {
   background-image: url("https://wallpapercave.com/wp/mNnGFpL.jpg");    
   height: 800px;
